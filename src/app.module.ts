@@ -15,7 +15,6 @@ import 'reflect-metadata';
       database: 'task-management',
       autoLoadEntities: true,
       synchronize: true,
-      // entities: [__dirname + '/**/*.entity{.ts,.js}'],
     }),
   ],
   controllers: [],
